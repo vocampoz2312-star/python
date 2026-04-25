@@ -39,3 +39,7 @@ Ejemplo de salida: ![alt text](image-11.png)
 
 Al cambiar la comilla por un apostrofe o tilde, el sistema genera un error y nos muestra la línea e identifica el lugar donde se encuentra el error. 
 Ejemplo de salida: ![alt text](image-12.png)
+
+En la sección 2, se habla sobre cadenas y solicita que escriba un fragmento de código de una línea, utilizando la función print(), así como los caracteres de nuevalínea y de escape, para que coincida con el resultado esperado que se muestra en la salida.
+Ejemplo de salida: ![alt text](image-13.png)
+
